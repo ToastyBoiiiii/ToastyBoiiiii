@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HannesL12
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java
-- 📫 How to reach me: hannes.leonhartsberger@outlook.com
+- 👋 Hi, I’m @ToastyBoiiiii
+- 📫 How to reach me: 
+        -E-Mail: hannes.leonhartsberger@outlook.com
+        -Discord: Toast#9085
